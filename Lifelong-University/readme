@@ -1,21 +1,13 @@
 Rules
 Credit Hours
   each credit hour is worth 60 hours of study (adopted from 15 hours in the classroom plus the recommended 3 hours of study per credit hour)
-Class standing
-  Freshman:         0-30
-  Sophomore:        30-60
-  Junior:           60-90
-  Senior:           90-120
-  master:           120-160
-  Professional:     160-220
-  doctor:           220-280
-Degrees according to credit hours
-  Gen ed: counted as a degree earned for generic learning
+  
+Degrees according to total credit hours
   Minor:            20 
   Associate's:      60
-  Bachelor's:       60 after Associate's      (120)
-  Master's:         40 after Bachelor's       (160)
-  Professional PhD: 60 after Master's         (220)
-  PhD:              60 after Professional PhD (280)
+  Bachelor's:       120
+  Master's:         160
+  Professional PhD: 220
+  PhD:              280
   
   
